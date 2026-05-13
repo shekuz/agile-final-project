@@ -1,9 +1,9 @@
 ---
 name: User Story
 about: Create a user story issue
-title: ''
-labels: ''
-assignees: ''
+title: 'Product Backend Sprint'
+labels: 'enhancement, technical debt'
+assignees: 'sheku'
 
 ---
 
