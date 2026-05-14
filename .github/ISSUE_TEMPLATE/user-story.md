@@ -1,11 +1,3 @@
----
-name: User Story
-about: Create a user story issue
-title: 'Product Backend Sprint'
-labels: 'Enhancement, Technical Debt'
-assignees: 'Sheku'
-
----
 
 Create Product
 
@@ -24,7 +16,6 @@ Then the product should be stored successfully in the catalog
 Given required product fields are missing
 When I submit the request
 Then the system should return a validation error
-
 
 
 # Story 2 — Retrieve Product
